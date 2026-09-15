@@ -1,2 +1,2 @@
-# Summarizer-HF 
-Text Summarizer App - Transformer Minor Project (using HuggingFace & FastAPI)
+# CreditWise Loan System
+CreditWise Loan System 
